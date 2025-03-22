@@ -12,3 +12,12 @@ Through the analysis, some interesting trends emerged. The Animal category was i
 Based on these insights, strategic recommendations were provided to enhance content effectiveness. It was suggested that businesses should focus more on the top five categories, namely Animal, Technology, Science, Healthy Eating, and Food, as these received the highest engagement. Furthermore, targeting specific months, particularly January, May, and August, was recommended since these months had the highest posting activity. To maximize engagement, businesses were also advised to prioritize photo and video content, as these formats resonated the most with users.
 
 In conclusion, the Social Bazz project provided valuable data-driven insights that can help businesses refine their content strategies. By focusing on the right content categories, choosing the best-performing formats, and posting at optimal times, companies can significantly improve their audience engagement and reach. Your internship allowed you to apply data analytics techniques in a real-world scenario, helping to extract actionable insights that support business decisions in the social media landscape.
+
+
+PWC Internship
+
+Task 1: Call Center Performance Analysis
+
+During your internship, you likely tackled the Call Center Performance Analysis task by diving into a dataset containing In this task, I worked with call center data—like logs listing every call, info about the agents (their names and details), and numbers showing how long calls took (call duration), how many issues got solved (resolution rates), and how happy customers were (satisfaction scores). I loaded all this into Power BI and cleaned it up—like fixing typos or filling in missing parts—so it made sense. Then, I checked how each agent did every day. For example, I saw if Agent A was quick at answering or if Agent B fixed more problems. I made easy charts, like bars showing how many calls each agent handled or lines tracking call times over days, so my team could see who was doing great or where things got slow. I noticed calls took longer on Fridays, so I suggested adding more agents then. My charts and ideas helped the call center work better by showing what was happening clearly.
+
+
